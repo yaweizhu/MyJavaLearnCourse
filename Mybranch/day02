@@ -1,0 +1,10 @@
+import system.io;
+
+public void main(string[] args){
+	}
+	class imgRead(){
+	private int page;
+	public setPage(int page){
+	page=page;
+	}
+	}
